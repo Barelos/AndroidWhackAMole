@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Whack A Mole</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+    <string name="button_strat">Start</string>
+    <string name="button_stop">Stop</string>
+    <string name="settings_title">Settings</string>
+    <string name="settings_text">Click the green squares as fast as possible</string>
+    <string name="settings_length">Length</string>
+</resources>
